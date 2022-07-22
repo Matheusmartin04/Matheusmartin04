@@ -34,6 +34,6 @@
 
 <div align="center">
   <a href="https://github.com/Matheusmartin04">
-  <img height="145em" width = "400em" src="https://github-readme-stats.vercel.app/api?username=Matheusmartin04&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="145em" width = "500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmartin04&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" width = "300em" src="https://github-readme-stats.vercel.app/api?username=Matheusmartin04&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="175em" width = "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmartin04&layout=compact&langs_count=7&theme=dracula"/>
 </div>
