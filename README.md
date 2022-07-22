@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Matheusmartin04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Matheusmartin04">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Matheusmartin04&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmartin04&layout=compact&langs_count=7&theme=dracula"/>
 </div>
