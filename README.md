@@ -3,7 +3,7 @@
 <!-- Subtitle -->
 <div class="skills" align="center">
 
-  Bachelor in Actuarial sciences | data analyst | Data visualization
+  bachelor's degree in Actuarial sciences | data analyst | Data visualization
 </div>
 
 <br>
