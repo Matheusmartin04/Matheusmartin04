@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a> -->
     <h3> Social networks and contacts </h3>
-<a href="https://www.linkedin.com/in/matheus-martins-7aa01721b/"  target="_blank">
+<a href="https://www.linkedin.com/in/matheusmartin04/"  target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png">
 </a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
