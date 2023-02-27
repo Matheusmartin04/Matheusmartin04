@@ -22,7 +22,7 @@
     <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png">
 </a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://t.me/alanelias"  target="_blank">
+<a href=""  target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/ffffff/telegram-app.png">
 </a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
