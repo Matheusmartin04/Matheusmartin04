@@ -2,7 +2,7 @@
 <h1 align="center">Matheus Martins</h1>
 
 <!-- Subtítulo -->
-<h3 align="center">Graduação em Ciências Atuariais | Analista de Dados | Visualização de Dados</h3>
+<h3 align="center">Bacharelado em Ciências Atuariais | Analista de Dados | Visualização de Dados</h3>
 
 <br>
 
